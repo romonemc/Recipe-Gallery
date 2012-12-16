@@ -1,0 +1,22 @@
+<?php
+
+/*
+* @file
+*
+* A module exemplifying Drupal coding practices and APIs.
+*
+* This module provides a block that lists all of the
+* installed modules. It llustrates coding standards,
+* practices, and API use for Drupal 7.
+*
+*/
+
+/**
+ * Implements hook_help().
+*/
+
+function first_help($path, $arg) {
+    if ($path == 'admin/help#first') {
+        return t('A demonstration module.');
+    }
+}

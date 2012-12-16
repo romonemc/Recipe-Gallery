@@ -1,0 +1,6 @@
+name = d7dev
+description = Custom module for misc custom functionality.
+core = 7.x 
+package = Custom 
+
+files[] = d7dev.module

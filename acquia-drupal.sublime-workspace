@@ -1,0 +1,448 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"div",
+				"divElem"
+			],
+			[
+				"Suppl",
+				"Supplies"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"return",
+				"return_odds"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"read",
+				"reads_books"
+			],
+			[
+				"rea",
+				"reads_books"
+			],
+			[
+				"impo",
+				"Import"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"chan",
+				"change_name"
+			],
+			[
+				"chang",
+				"change_location"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"ne",
+				"newname"
+			],
+			[
+				"new",
+				"newlocation"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"ra",
+				"raised"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"last",
+				"last_key"
+			],
+			[
+				"s",
+				"startswith"
+			],
+			[
+				"b",
+				"bmiddle"
+			],
+			[
+				"bad",
+				"badpos"
+			],
+			[
+				"not",
+				"notpos"
+			],
+			[
+				"re",
+				"rep_string2"
+			],
+			[
+				"rep_",
+				"rep_string1"
+			],
+			[
+				"rep",
+				"rep_string1"
+			],
+			[
+				"first",
+				"first_char"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"ret",
+				"retrievedProject"
+			],
+			[
+				"assert",
+				"assertEquals"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"the",
+				"theTime"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"command_palette":
+	{
+		"height": 335.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Settings - User"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Romone/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/Romone/Documents/GitHub/angular-phonecat/app/index.html",
+		"/C/Users/Romone/Documents/GitHub/angular-phonecat/README.md",
+		"/C/Users/Romone/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Romone/Documents/GitHub/angular-phonecat/scripts/web-server.js",
+		"/C/Users/Romone/Desktop/greeter.ts",
+		"/C/Users/Romone/Desktop/greeter.js",
+		"/C/Users/Romone/Desktop/test.ts",
+		"/C/Users/Romone/Google Drive/Fullscreen API.html",
+		"/C/Users/Romone/Downloads/C++ Projects/Thermometer/Thermometer/thermometer.cpp",
+		"/C/Users/Romone/Downloads/C++ Projects/Thermometer/Thermometer/thermometer.h",
+		"/C/Users/Romone/Downloads/C++ Projects/Thermometer/Thermometer/read_temperature.cpp",
+		"/C/Users/Romone/Google Drive/Drive Test/quickstart.php",
+		"/C/Users/Romone/Documents/Dropbox/Websites/Tutorials/Internal Links.html",
+		"/C/Users/Romone/Documents/Dropbox/Websites/Tutorials/two frames.html",
+		"/C/Users/Romone/Documents/Dropbox/Websites/Tutorials/navigation.html",
+		"/C/Users/Romone/Documents/Dropbox/Websites/Tutorials/two frames3.html",
+		"/C/Users/Romone/Documents/Dropbox/Websites/Tutorials/two frames4.html",
+		"/C/Users/Romone/Documents/Dropbox/Websites/Photo Gallery (CSS)/index.css",
+		"/C/Users/Romone/Documents/Dropbox/Websites/Tutorials/index.html",
+		"/C/Users/Romone/Documents/Dropbox/Websites/Tutorials/lists2.html",
+		"/C/Users/Romone/Documents/Dropbox/Websites/Tutorials/links.html",
+		"/C/Users/Romone/Documents/C++/build/build/build/use_build.cpp",
+		"/C/Users/Romone/Documents/C++/Inheritance/Building.cpp",
+		"/C/Users/Romone/Documents/C++/Inheritance/Building.h",
+		"/C/Users/Romone/Documents/C++/Inheritance/main.cpp",
+		"/C/Users/Romone/Documents/C++/Inheritance/Skyscraper.cpp",
+		"/C/Users/Romone/Documents/C++/Inheritance/Skyscraper.h",
+		"/C/Users/Romone/Documents/HTML5 Canvas/canvas.html",
+		"/C/Users/Romone/Documents/HTML5 Canvas/canvas.js",
+		"/C/Users/Romone/Documents/Rainmeter/Skins/LEXIS/ColorVariables.inc",
+		"/C/Program Files (x86)/acquia-drupal/mysql/my.cnf",
+		"/C/Program Files/MySQL/MySQL Server 5.5/my.ini",
+		"/C/Users/Romone/Google Drive/Database Management/Database - Copy.sql",
+		"/C/Users/Romone/Google Drive/Database Management/Database.rtf",
+		"/C/Users/Romone/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Romone/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Romone/Sites/acquia-drupal/sites/all/modules/custom/first/first.info",
+		"/C/Users/Romone/Sites/acquia-drupal/sites/all/modules/custom/first/first.module",
+		"/C/Users/Romone/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Romone/Sites/acquia-drupal/sites/all/modules/addressfield/addressfield.install",
+		"/C/Users/Romone/Sites/acquia-drupal/sites/all/modules/custom/nutritioninfo/nutritioninfo.info",
+		"/C/Users/Romone/Sites/acquia-drupal/sites/all/modules/custom/nutritioninfo/nutritioninfo.module",
+		"/C/Users/Romone/Sites/acquia-drupal/sites/all/modules/custom/nutritioninfo/nutritioninfo.install",
+		"/C/Users/Romone/Sites/acquia-drupal/sites/all/modules/addressfield/addressfield.module",
+		"/C/Users/Romone/Sites/acquia-drupal/sites/all/modules/addressfield/addressfield.info",
+		"/C/Users/Romone/Sites/acquia-drupal/sites/all/modules/microdata/microdata.module",
+		"/C/Users/Romone/Sites/Modules List.txt",
+		"/C/Users/Romone/Desktop/test.cpp",
+		"/C/Users/Romone/Sites/acquia-drupal/modules/aggregator/aggregator.module",
+		"/C/Users/Romone/Sites/acquia-drupal/modules/aggregator/aggregator.api.php",
+		"/C/Users/Romone/Sites/acquia-drupal/modules/aggregator/aggregator.admin.inc",
+		"/C/Users/Romone/Sites/acquia-drupal/modules/color/color.test",
+		"/C/Users/Romone/Sites/acquia-drupal/modules/color/color.module",
+		"/C/Users/Romone/Sites/acquia-drupal/index.php",
+		"/C/Users/Romone/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Romone/Sites/acquia-drupal/cron.php",
+		"/C/Users/Romone/Sites/acquia-drupal/update.php",
+		"/C/Users/Romone/Sites/acquia-drupal/.project",
+		"/C/Users/Romone/Sites/acquia-drupal/authorize.php",
+		"/C/Users/Romone/Sites/acquia-drupal/.hashlist",
+		"/C/Users/Romone/Sites/acquia-drupal/.htaccess",
+		"/C/Users/Romone/Sites/acquia-drupal/Drupal.sublime-projectcompletions",
+		"/C/Users/Romone/Sites/acquia-drupal/install.php",
+		"/C/msys/1.0/etc/profile",
+		"/C/Users/Romone/Desktop/.eprj",
+		"/C/Users/Romone/Downloads/Projects/Thermometer/Thermometer/thermometer.cpp",
+		"/C/Users/Romone/Downloads/Projects/Thermometer/Thermometer/thermometer.h",
+		"/C/Users/Romone/Downloads/Projects/Thermometer/Thermometer/read_temperature.cpp",
+		"/C/Program Files/MySQL/MySQL Server 5.5/my-huge.ini",
+		"/C/Users/Romone/Downloads/Impress.js/bartaz-impress.js-9ccb39d/README.md",
+		"/C/Users/Romone/Downloads/mvc4ia-2012-06-13/src4/Chapter 2/GuestBook/Models/GuestbookContext.cs",
+		"/C/Users/Romone/Downloads/Impress.js/bartaz-impress.js-9ccb39d/js/impress.js",
+		"/C/Users/Romone/Downloads/mvc4ia-2012-06-13/src4/Chapter 2/GuestBook/Controllers/GuestbookController.cs",
+		"/C/Users/Romone/Downloads/MVC",
+		"/C/Users/Romone/Downloads/mvc4ia-2012-06-13/src4/Chapter 2/GuestBook/Models/GuestbookEntry.cs",
+		"/C/Sites/guestbook/app/views/people/new.html.erb",
+		"/C/Sites/guestbook/app/views/people/_form.html.erb",
+		"/C/Sites/guestbook/app/helpers/application_helper.rb",
+		"/C/Sites/guestbook/app/helpers/people_helper.rb",
+		"/C/Sites/guestbook/app/controllers/people_controller.rb",
+		"/C/Sites/guestbook/db/migrate/20120924042859_create_people.rb",
+		"/C/Sites/guestbook/app/views/layouts/application.html.erb",
+		"/C/Sites/guestbook/app/views/people/show.html.erb",
+		"/C/Sites/guestbook/app/views/people/index.html.erb",
+		"/C/Sites/guestbook/app/models/person.rb",
+		"/C/Sites/loccasions/Gemfile",
+		"/C/Sites/deep_dive/config/database.yml",
+		"/C/Sites/sample_app/app/helpers/static_pages_helper.rb",
+		"/C/Sites/sample_app/app/controllers/static_pages_controller.rb",
+		"/C/Sites/sample_app/app/controllers/application_controller.rb",
+		"/C/Sites/sample_app/app/views/static_pages/home.html.erb",
+		"/C/Sites/sample_app/app/views/layouts/application.html.erb",
+		"/C/Sites/sample_app/app/views/layouts/_header.html.erb",
+		"/C/Sites/sample_app/app/views/layouts/_footer.html.erb",
+		"/C/Sites/sample_app/config/routes.rb",
+		"/C/Sites/hello01/config/routes.rb",
+		"/C/Sites/guestbook/config/routes.rb",
+		"/C/Sites/sample_app/.autotest",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/cheatsheets/strings.rb",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/session1/challenge/6_string.rb",
+		"/C/Users/Romone/Downloads/people.json",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/session1/solved/5.rb",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/session1/challenge/5_string.rb",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/cheatsheets/regular_expressions.rb",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/session1/examples/3_rememberer.rb",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/session1/challenge/4_logic.rb",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Sites/guestbook/db/migrate/20120921033256_create_people.rb",
+		"/C/Sites/guestbook/db/schema.rb",
+		"/C/Sites/guestbook/config/environments/test.rb",
+		"/C/Sites/guestbook/config/environments/development.rb",
+		"/C/Sites/guestbook/config/locales/en.yml",
+		"/C/Sites/guestbook/config/boot.rb",
+		"/C/Users/Romone/Desktop/age.rb",
+		"/C/Users/Romone/Downloads/1.json",
+		"/C/Users/Romone/Downloads/new.json",
+		"/C/Sites/guestbook/app/views/people/edit.html.erb",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/session1/notes/24-go-do-the-challenges.rb",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/session1/challenge/3_simple_logic.rb",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/session1/challenge/2_arithmetic.rb",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/session1/spec/1.rb",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/session1/notes/20-logic.rb",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/session1/spec/2.rb",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/session1/challenge/1_arithmetic.rb",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/session1/notes/14-operators-on-strings.rb",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/session1/notes/13-single-vs-double-quotes.rb",
+		"/C/Users/Romone/Documents/GitHub/ruby-kickstart/session1/notes/11-stdin-and-stdout.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ,",
+			"('",
+			"=\n",
+			"return",
+			"\n",
+			"getinfo",
+			"name",
+			"1",
+			".\"",
+			"()",
+			":]\n",
+			">",
+			">\n",
+			".'\n",
+			"extension=php_curl.dll"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 97.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"index",
+				"app/views/hello/index.html.erb"
+			],
+			[
+				"mesa",
+				"protected/controllers/MessageController.php"
+			],
+			[
+				"proj",
+				"protected/models/Project.php"
+			],
+			[
+				"main",
+				"css/main.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true
+}
