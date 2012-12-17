@@ -1,2 +1,21 @@
 /* This file will hold styles for the mobile version of your website (mobile first). */
 /* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
+
+/* styles for Recipe content type */
+
+body.node-type-recipe div.field-name-field-image{
+  float:left;
+}
+
+body.node-type-recipe div.time-yield-wrapper{
+  float:left;
+  margin-left: 20px;
+  border: 1px solid #777;
+  padding: 10px;
+  background: #E0BE6D;
+
+}
+
+body.node-type-recipe div.field-name-field-ingredients{
+  clear:left;
+}
