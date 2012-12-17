@@ -3,7 +3,6 @@ omega_theme_settings_validate_equal_height	omega_theme_settings_validate_equal_h
 omega_theme_get_setting	omega_theme_get_setting(${1:\$name}, ${2:\$default = NULL}, ${3:\$theme = NULL})
 omega_zone_get_setting	omega_zone_get_setting(${1:\$name}, ${2:\$zone}, ${3:\$default = NULL}, ${4:\$theme = NULL})
 omega_region_get_setting	omega_region_get_setting(${1:\$name}, ${2:\$region}, ${3:\$default = NULL}, ${4:\$theme = NULL})
-omega_settings	omega_settings()
 omega_pager	omega_pager(${1:\$vars})
 omega_item_list	omega_item_list(${1:\$vars})
 omega_views_mini_pager	omega_views_mini_pager(${1:\$vars})
